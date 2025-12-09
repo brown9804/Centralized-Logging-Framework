@@ -28,7 +28,7 @@ Last updated: 2020-08-14
 
 - [How to Choose type of instrumentation?](https://www.slideshare.net/AlexThissen/logging-tracing-and-instrumentation-in-net-5-and-azure)
 
-![image](https://github.com/brown9804/CenLog_LPath/assets/24630902/d99e009d-c885-483b-9f00-8202f04915fe)
+    ![image](https://github.com/brown9804/CenLog_LPath/assets/24630902/d99e009d-c885-483b-9f00-8202f04915fe)
 
 
 - [What is Monitoring?](https://www.splunk.com/en_us/blog/learn/it-monitoring.html)
@@ -45,11 +45,11 @@ Last updated: 2020-08-14
 
 - [Observability vs Monitoring](https://www.computer.org/publications/tech-news/trends/observability-vs-monitoring-the-key-differences-devops-should-know/)
   
-  ![image](https://github.com/brown9804/Obs_Mon_LPath/assets/24630902/47f021dd-5c66-4cc4-812e-82043af9537c)
+    ![image](https://github.com/brown9804/Obs_Mon_LPath/assets/24630902/47f021dd-5c66-4cc4-812e-82043af9537c)
 
 - [Observability vs Monitoring - The difference explained with an example](https://signoz.io/blog/observability-vs-monitoring/), [key definition](https://scoutapm.com/blog/applicationperformancemonitoring-observability)
 
-  ![image](https://github.com/brown9804/Obs_Mon_LPath/assets/24630902/a6976e6a-7700-4575-aecc-fe678d4c59b4)
+    ![image](https://github.com/brown9804/Obs_Mon_LPath/assets/24630902/a6976e6a-7700-4575-aecc-fe678d4c59b4)
 
 - [Observability vs Monitoring vs Telemetry: Understanding the Key Differences](https://cribl.io/blog/observability-vs-monitoring-vs-telemetry/)
   
@@ -57,7 +57,7 @@ Last updated: 2020-08-14
 
 - [What is SRE (site reliability engineering)?](https://www.redhat.com/en/topics/devops/what-is-sre), to understand difference between DevOps [click here](https://jelvix.com/blog/sre-vs-devops)
 
-  <img width="945" alt="image" src="https://github.com/brown9804/Obs_Mon_LPath/assets/24630902/875b0794-ab5a-469c-b4d3-6ed56a44aa77">
+    <img width="945" alt="image" src="https://github.com/brown9804/Obs_Mon_LPath/assets/24630902/875b0794-ab5a-469c-b4d3-6ed56a44aa77">
 
   - [Understanding the Observability Maturity Model](https://www.youtube.com/watch?v=KF177XEd3fM)
 
