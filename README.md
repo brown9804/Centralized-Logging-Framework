@@ -16,7 +16,9 @@ Last updated: 2020-08-14
 - [Telemetry](https://github.com/brown9804/CenLog_LPath/tree/main/2_Telemetry)
 - [Streaming Framework](https://github.com/brown9804/CenLog_LPath/tree/main/3_StreamingF)
 
-<img width="788" alt="image" src="https://github.com/brown9804/Obs_Mon_LPath/assets/24630902/be10646f-6005-42d5-9606-e232029e6173">
+<div align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/2e99aae8-017b-4dd2-ba81-7d4c68cf6a7e" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
 
 ## Wiki 
 
@@ -24,7 +26,7 @@ Last updated: 2020-08-14
 
 `Observability is particularly useful for diagnosing problems and understanding the root cause of issues.`
 
-  <img width="1631" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/acb73eb4-feef-4838-b558-43986f29ef5e">
+  <img width="800" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/acb73eb4-feef-4838-b558-43986f29ef5e">
 
 - [How to Choose type of instrumentation?](https://www.slideshare.net/AlexThissen/logging-tracing-and-instrumentation-in-net-5-and-azure)
 
