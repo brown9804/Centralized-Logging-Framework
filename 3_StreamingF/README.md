@@ -15,25 +15,25 @@ Aug, 2022
 
 - [Batch processing vs. real-time stream processing](https://addepto.com/blog/stream-data-model-and-architecture/)
 
-<img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/07418895-567a-4871-8f15-bb4ebdcc174a">
+     <img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/07418895-567a-4871-8f15-bb4ebdcc174a">
 
 - [Stream Processing - What, When and Why?](https://www.linkedin.com/pulse/stream-processing-what-when-why-animesh-sharma)
 
-<img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/caade5d5-76ec-4c54-8482-c19ea85dae83">
+    <img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/caade5d5-76ec-4c54-8482-c19ea85dae83">
 
 - [Stream Processing](https://www.confluent.io/learn/data-streaming/#:~:text=What%20is%20Streaming%20Data%3F,it's%20generated%20in%20real%2Dtime.)
 
-<img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/afe3c155-60b2-464d-a646-957519f206a0">
+    <img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/afe3c155-60b2-464d-a646-957519f206a0">
 
 - [9 Best Stream Processing Frameworks: Comparison 2024](https://estuary.dev/stream-processing-framework/)
 
 - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction)
 
-<img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/fb9e1586-ef9c-4c63-9a77-158627382893">
+    <img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/fb9e1586-ef9c-4c63-9a77-158627382893">
 
 - [An Introduction to Azure Stream Analytics Job](https://medium.com/medialesson/an-introduction-to-azure-stream-analytics-job-24fa5e76f48f)
 
-<img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/aa02736d-bfb2-430b-a1fe-fadd71a66bb8">
+    <img width="650" alt="image" src="https://github.com/brown9804/CenLog_LPath/assets/24630902/aa02736d-bfb2-430b-a1fe-fadd71a66bb8">
 
 - [Azure DevOps - How to Create audit streaming](https://learn.microsoft.com/en-us/azure/devops/organizations/audit/auditing-streaming?view=azure-devops)
 - [Azure DevOps Auditing - Part 1 - Overview and Streaming to Azure Monitor Logs](https://www.kristhecodingunicorn.com/post/azure-devops-audit-azure-monitor-logs/)
